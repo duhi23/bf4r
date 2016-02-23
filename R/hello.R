@@ -14,7 +14,7 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
-  print("Hola, Diego Paul!")
+  print("Saludos, Diego Paul!")
 }
 
 
