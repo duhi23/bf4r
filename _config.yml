@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Basic Functions for R
+email: diego.21.dphs@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Información que facilita la comprensión del paquete bf4r.
+baseurl: "/bf4r" # the subpath of your site, e.g. /blog
+url: "http://duhi23.github.io" # the base hostname & protocol for your site
+twitter_username: duhi23
+github_username:  duhi23
+
+# Build settings
+markdown: kramdown
