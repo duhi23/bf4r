@@ -11,7 +11,7 @@ email: diego.21.dphs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Información que facilita la comprensión del paquete bf4r.
 baseurl: "/bf4r" # the subpath of your site, e.g. /blog
-url: "http://duhi23.github.io" # the base hostname & protocol for your site
+url: "http://duhi23.github.io/bf4r/" # the base hostname & protocol for your site
 twitter_username: duhi23
 github_username:  duhi23
 
